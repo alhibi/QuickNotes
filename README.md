@@ -6,6 +6,12 @@
 
 An Android notes app written in **Kotlin** with **Jetpack Compose** and **Material 3**.
 
+## التنزيل
+
+أحدث ملف APK موقّع متاح من صفحة الإصدارات:
+
+<https://github.com/alhibi/QuickNotes/releases/latest>
+
 ## المزايا
 
 - كتابة / تعديل / حذف الملاحظات مع تأكيد الحذف.
