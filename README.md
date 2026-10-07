@@ -33,6 +33,12 @@ app/src/main/java/com/alhibi/quicknotes/
 └── ui/theme/Theme.kt        # الثيم
 ```
 
+## لقطات الشاشة
+
+| حالة فارغة | قائمة الملاحظات |
+| --- | --- |
+| ![حالة فارغة](docs/screenshot-1-empty.png) | ![قائمة الملاحظات](docs/screenshot-2-notes.png) |
+
 ## البناء محليًا
 
 يتطلب JDK 17+ و Android SDK (platform 36 و build-tools 36).
