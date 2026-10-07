@@ -203,7 +203,9 @@ private fun NoteCard(
     onDelete: () -> Unit,
     onTogglePin: () -> Unit,
 ) {
-    val formatter = remember { SimpleDateFormat("d MMM yyyy - HH:mm", Locale("ar")) }
+    val formatter = remember {
+        SimpleDateFormat("d MMM yyyy - HH:mm", Locale.forLanguageTag("ar"))
+    }
     Card(
         modifier = Modifier
             .fillMaxWidth()
